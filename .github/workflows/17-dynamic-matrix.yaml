@@ -1,4 +1,4 @@
-name: Dynamic Matrix
+name: 17 - Dynamic Matrix
 
 on:
   workflow_dispatch:
