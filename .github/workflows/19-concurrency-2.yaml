@@ -1,4 +1,4 @@
-name: Concurrency 2
+name: 19 - Concurrency 2
 
 run-name: Concurrency 2 (${{ inputs.environment }})
 on:
